@@ -1,5 +1,5 @@
 # Adalyn
-Case files for the Adalyn PCB
+Case files for the Adalyn PCB. For more information see the original repo by MarvFPV: https://github.com/MarvFPV/Adalyn
 
 Note: these are currently untested
 
